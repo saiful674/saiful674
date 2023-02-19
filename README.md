@@ -8,7 +8,7 @@ I am a web developer with a passion for learning. I specialize in JavaScript and
 
 Skills: HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Web Design 
@@ -18,12 +18,13 @@ Skills: HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohammadSaifulIslam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saiful1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/khan.saiful.90857)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaifulIslam)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadSaifulIslam&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohammadSaifulIslam)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MohammadSaifulIslam)  
+
 
 ![Profile views](https://gpvc.arturio.dev/MohammadSaifulIslam)  
