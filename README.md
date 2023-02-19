@@ -1,4 +1,6 @@
-![I am a passionate Web Developer](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/322160330_531816958997922_3490593121328051139_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=103&ccb=1-7&_nc_sid=da31f3&_nc_ohc=CFZJiWjhckcAX8LaXRl&tn=j-_fwTH3khnqXbsp&_nc_ht=scontent.fdac155-1.fna&oh=00_AfAcJWPmoy-67yrySyyna8haCTtUTSvFlkYicGdlphYLIQ&oe=63F5FDE8)
+<div align="center">
+<img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" align="center" style="width: 100%" />
+</div> 
 
 ### Hi there 👋, my name is Saif
 #### I am a passionate Web Developer
