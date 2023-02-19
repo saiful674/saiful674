@@ -1,8 +1,6 @@
-(https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/322160330_531816958997922_3490593121328051139_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=103&ccb=1-7&_nc_sid=da31f3&_nc_ohc=CFZJiWjhckcAX8LaXRl&tn=j-_fwTH3khnqXbsp&_nc_ht=scontent.fdac155-1.fna&oh=00_AfAcJWPmoy-67yrySyyna8haCTtUTSvFlkYicGdlphYLIQ&oe=63F5FDE8)
-
 ### Hi there 👋, my name is Saif
 #### I am a passionate Web Developer
-![I am a passionate Web Developer]
+![I am a passionate Web Developer](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/322160330_531816958997922_3490593121328051139_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=103&ccb=1-7&_nc_sid=da31f3&_nc_ohc=CFZJiWjhckcAX8LaXRl&tn=j-_fwTH3khnqXbsp&_nc_ht=scontent.fdac155-1.fna&oh=00_AfAcJWPmoy-67yrySyyna8haCTtUTSvFlkYicGdlphYLIQ&oe=63F5FDE8)
 
 I am a web developer with a passion for learning. I specialize in JavaScript and enjoy building dynamic websites. I am always looking to improve my skills and am excited to work on challenging projects.
 
