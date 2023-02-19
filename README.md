@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" align="center" style="width: 100%" />
-</div> 
+<img src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" align="center" style="width: 100%" />
+</div>  
 
 ### Hi there 👋, my name is Saif
 #### I am a passionate Web Developer
