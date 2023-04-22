@@ -8,7 +8,7 @@
 I am a web developer with a passion for learning. I specialize in JavaScript and enjoy building dynamic websites. I am always looking to improve my skills and am excited to work on challenging projects.
 
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Nade and Express js
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Web Design 
 - 💬 Ask me about Web Development 
