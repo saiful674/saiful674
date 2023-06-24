@@ -26,8 +26,6 @@ I am a web developer with a passion for learning. I specialize in JavaScript and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaifulIslam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadSaifulIslam&show_icons=true&count_private=true)  
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MohammadSaifulIslam)  
 
