@@ -1,6 +1,3 @@
-<img src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" align="center" style="width: 100%" />
-</div>  
-
 ### Hi there 👋
 #### My name is Mohammad Saiful Islam. 
 
@@ -8,11 +5,16 @@
 I am a web developer with a passion for learning. I specialize in JavaScript and enjoy building dynamic websites. I am always looking to improve my skills and am excited to work on challenging projects.
 
 
-- 🌱 I’m currently learning Next JS
-- 👯 I’m looking to collaborate on Github 
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Web Development 
 - 💬 Ask me about JavaScript 
 - 📫 How to reach me: saifulmdislam567@gmail.com 
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MohammadSaifulIslam/MohammadSaifulIslam/output/snake.svg" alt="Snake animation" />
 
 
 # 💻 Languages and Tools:
@@ -30,4 +32,4 @@ I am a web developer with a passion for learning. I specialize in JavaScript and
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MohammadSaifulIslam)  
 
 
-![Profile views](https://gpvc.arturio.dev/MohammadSaifulIslam)  
+
