@@ -12,9 +12,7 @@ I am a web developer with a passion for learning. I specialize in JavaScript and
 - 📫 How to reach me: saifulmdislam567@gmail.com 
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/MohammadSaifulIslam/MohammadSaifulIslam/output/snake.svg" alt="Snake animation" />
 
 
 # 💻 Languages and Tools:
@@ -32,4 +30,8 @@ I am a web developer with a passion for learning. I specialize in JavaScript and
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MohammadSaifulIslam)  
 
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/MohammadSaifulIslam/MohammadSaifulIslam/output/snake.svg" alt="Snake animation" />
+
+###
