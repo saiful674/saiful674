@@ -24,14 +24,14 @@ I am a web developer with a passion for learning. I specialize in JavaScript and
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khan.saiful.90857/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saiful1/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaifulIslam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful674&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MohammadSaifulIslam)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=saiful674)  
 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MohammadSaifulIslam/MohammadSaifulIslam/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/saiful674/saiful674/output/snake.svg" alt="Snake animation" />
 
 ###
